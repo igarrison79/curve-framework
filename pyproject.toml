@@ -1,0 +1,11 @@
+[project]
+name = "shopsync"
+version = "0.1.0"
+description = "Sync inventory across multiple marketplaces"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
